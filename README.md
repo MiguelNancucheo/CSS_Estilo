@@ -1,3 +1,3 @@
 # Practica de Estilo
 
-Practando estilos
+Practicando estilos
